@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="welcome" />
         <p className="description">
-          You see a [<code>door</code>](./public/foyer.html).
+          You see a <code>door</code>.
         </p>
       </main>
 
